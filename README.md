@@ -1,6 +1,5 @@
-# PythonExercises
+# Python Exercises
 Python Exercises I did for College
 
-# Subjects the Exercises are for:
 ## Subjects:
 * Introduction of Intelligence Systems
